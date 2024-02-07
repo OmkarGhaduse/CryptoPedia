@@ -1,7 +1,7 @@
 ****CryptoPedia****
 
 
-CryptoPedia is a responsive website that provides comprehensive information about cryptocurrencies, including their current price, market capitalization, daily change, and latest news. It utilizes React-Chartjs-2 and Chart.js to generate visual representations in the form of line graphs. The data is fetched from APIs using Rapid API.
+CryptoPedia is a responsive website made with ReactJS that provides comprehensive information about cryptocurrencies, including their current price, market capitalization, daily change, and latest news. It utilizes React-Chartjs-2 and Chart.js to generate visual representations in the form of line graphs. The data is fetched from APIs using Rapid API.
 
 **Features**
 
@@ -11,6 +11,8 @@ Fetches latest news about cryptocurrencies from sources like CoinRanking.
 Responsive design for seamless viewing across devices.
 
 **Technologies Used**
+
+ReactJS
 
 React-Chartjs-2
 
