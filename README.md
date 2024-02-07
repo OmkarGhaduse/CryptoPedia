@@ -9,10 +9,15 @@ Displays current price, market capitalization, and daily change of cryptocurrenc
 Provides visual representation of data through line graphs.
 Fetches latest news about cryptocurrencies from sources like CoinRanking.
 Responsive design for seamless viewing across devices.
+
 **Technologies Used**
 
 React-Chartjs-2
+
 Chart.js
+
 Rapid API
+
 CoinRanking API
+
 Cryptocurrency News API
